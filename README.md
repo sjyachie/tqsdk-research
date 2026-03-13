@@ -33,6 +33,8 @@
 | 20 | 因子暴露分析器 | 分析工具 | [20_factor_exposure_analyzer.py](20_factor_exposure_analyzer.py) |
 | 21 | 多因子分析工具 | 多因子 | [21_multi_factor_analysis.py](21_multi_factor_analysis.py) |
 | 22 | 截面动量策略 | 多因子 | [22_cross_sectional_momentum.py](22_cross_sectional_momentum.py) |
+| 23 | 因子收益率分析 | 多因子 | [23_factor_returns_analyzer.py](23_factor_returns_analyzer.py) |
+| 24 | 市场状态检测 | 分析工具 | [24_market_regime_detector.py](24_market_regime_detector.py) |
 
 ## 工具分类
 
@@ -66,4 +68,4 @@ pip install tqsdk numpy pandas scipy statsmodels
 
 **持续更新中，欢迎 Star ⭐ 关注**
 
-*更新时间：2026-03-12*
+*更新时间：2026-03-13*
