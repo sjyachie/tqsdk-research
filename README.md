@@ -35,6 +35,8 @@
 | 22 | 截面动量策略 | 多因子 | [22_cross_sectional_momentum.py](22_cross_sectional_momentum.py) |
 | 23 | 因子收益率分析 | 多因子 | [23_factor_returns_analyzer.py](23_factor_returns_analyzer.py) |
 | 24 | 市场状态检测 | 分析工具 | [24_market_regime_detector.py](24_market_regime_detector.py) |
+| 25 | 机器学习预测因子分析器 | 机器学习 | [25_ml_factor_analyzer.py](25_ml_factor_analyzer.py) |
+| 26 | 高频数据特征提取器 | 分析工具 | [26_high_freq_feature_extractor.py](26_high_freq_feature_extractor.py) |
 
 ## 工具分类
 
