@@ -37,6 +37,8 @@
 | 24 | 市场状态检测 | 分析工具 | [24_market_regime_detector.py](24_market_regime_detector.py) |
 | 25 | 机器学习预测因子分析器 | 机器学习 | [25_ml_factor_analyzer.py](25_ml_factor_analyzer.py) |
 | 26 | 高频数据特征提取器 | 分析工具 | [26_high_freq_feature_extractor.py](26_high_freq_feature_extractor.py) |
+| 27 | 跨品种套利分析器 | 分析工具 | [27_cross_commodity_arbitrage_analyzer.py](27_cross_commodity_arbitrage_analyzer.py) |
+| 28 | 期权波动率套利分析器 | 多因子 | [28_options_volatility_arbitrage.py](28_options_volatility_arbitrage.py) |
 
 ## 工具分类
 
@@ -70,4 +72,4 @@ pip install tqsdk numpy pandas scipy statsmodels
 
 **持续更新中，欢迎 Star ⭐ 关注**
 
-*更新时间：2026-03-13*
+*更新时间：2026-03-18*
